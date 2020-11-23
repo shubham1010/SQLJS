@@ -1,0 +1,18 @@
+version: '3'
+services:
+  goapi:
+    build: ./server/
+    image: golang-api
+    container_name: student-records
+    restart: always
+    ports:
+      - "8080:8080"
+    networks:
+      static_ip:
+        ipv4_address: 198.168.1.2
+networks:
+  static_ip:
+    ipam:
+      driver: default
+      config:
+        - subnet: 198.168.0.0/20
