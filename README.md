@@ -34,25 +34,29 @@ Docker =>  As I have used Golang for API, I thought that without bothering about
 
 ```
 1) You can display records from .json to browser.
-2) You can change any record by just clicking into columns of table.
-3) You can save record instantly into Sql.js first and then localStorage.
-4) State of data is maintained using Sql.js and localStorage.
-5) It fetch records only if it is not stored in localStorage.
-6) Currently localStorage's data is going to remove after 60seconds, we can update it to whatever we want.
+2) You can change any record by just clicking on columns of table.
+3) You can add new records by clicking on + symbol.
+4) You are allow to click only if excepted condition are matches.
+5) You can also modify the newly added record(s).
+6) Type of roll number is set to be an Integer, so for every insertion you have to enter roll number of type integer.
+7) You can save record instantly into Sql.js first and then localStorage.
+8) State of data is maintained using Sql.js and localStorage.
+9) It fetch records only if it is not stored in localStorage.
+10) Currently localStorage's data is going to remove after 60seconds, we can update it to whatever we want.
+11) You can send data to server by clicking on upload button which saves your updated data permanently.
+12) Errors are handled on client side.
 ```
 
 
 ## Upcoming Features
 
 ```
-1) Create New button, to create new record on webpage itself.
-2) Upload button, to add/insert updated into server side's .json file.
-3) Error handling to give respective response for user actions, currently I'm just printing it to console.log().
+1) Error handling for updating roll number column.
 ```
 
 ### Please Note
-This is a built code, I shall give you source code once I complete all upcoming features, thank you.
+This is a built code. I have invited you to source code on gitlab, please accept invitation. Thank you. 
 
 
 ## Versioning
-Version 1.0
+Version 1.1

@@ -1,62 +1,82 @@
 [
   {
-    "Name": "Shubham Jagdhane",
-    "RollNo": 18116,
-    "Course": "MCA"
+    "name": "Shubham Jagdhane",
+    "rollno": 18116,
+    "course": "MCA"
   },
   {
-    "Name": "ABC",
-    "RollNo": 18117,
-    "Course": "MCA"
+    "name": "HELLO",
+    "rollno": 18117,
+    "course": "MCA"
   },
   {
-    "Name": "PQR",
-    "RollNo": 18118,
-    "Course": "MCA"
+    "name": "PQR",
+    "rollno": 18118,
+    "course": "MCA"
   },
   {
-    "Name": "XYZ",
-    "RollNo": 18119,
-    "Course": "MCA"
+    "name": "XYZ",
+    "rollno": 18119,
+    "course": "MCA"
   },
   {
-    "Name": "JKL",
-    "RollNo": 18120,
-    "Course": "MCA"
+    "name": "JKL",
+    "rollno": 18120,
+    "course": "MCA"
   },
   {
-    "Name": "MNO",
-    "RollNo": 18121,
-    "Course": "MCA"
+    "name": "MNO",
+    "rollno": 18121,
+    "course": "MCA"
   },
   {
-    "Name": "QWR",
-    "RollNo": 18122,
-    "Course": "MSc"
+    "name": "QWR",
+    "rollno": 18122,
+    "course": "MSc"
   },
   {
-    "Name": "FGD",
-    "RollNo": 18123,
-    "Course": "MSc"
+    "name": "FGD",
+    "rollno": 18123,
+    "course": "MSc"
   },
   {
-    "Name": "OPQ",
-    "RollNo": 18124,
-    "Course": "MCA"
+    "name": "OPQ",
+    "rollno": 18124,
+    "course": "MCA"
   },
   {
-    "Name": "YUUW",
-    "RollNo": 18125,
-    "Course": "MCA"
+    "name": "YUUW",
+    "rollno": 18125,
+    "course": "MCA"
   },
   {
-    "Name": "VFS",
-    "RollNo": 18126,
-    "Course": "MCA"
-  },{
-    "Name": "ASD",
-    "RollNo": 18127,
-    "Course": "MSc"
+    "name": "VFS",
+    "rollno": 18126,
+    "course": "MCA"
+  },
+  {
+    "name": "ASD",
+    "rollno": 18127,
+    "course": "MSc"
+  },
+  {
+    "name": "Hi",
+    "rollno": 18170,
+    "course": "MCA"
+  },
+  {
+    "name": "Bye",
+    "rollno": 18171,
+    "course": "MSc"
+  },
+  {
+    "name": "Inserted1",
+    "rollno": 18173,
+    "course": "MSc"
+  },
+  {
+    "name": "Inserted2",
+    "rollno": 18174,
+    "course": "MCA"
   }
-
 ]
