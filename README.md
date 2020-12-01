@@ -56,7 +56,8 @@ Docker =>  As I have used Golang for API, I thought that without bothering about
 
 ### Please Note
 This is a built code. I have invited you to source code on gitlab, please accept invitation. Thank you. 
-
+The localStorage object will going to remove after 60seconds from either you refresh page or initially you are loading page.
+Please enter MCA or MSc for course name.
 
 ## Versioning
 Version 1.1
